@@ -5,15 +5,5 @@ In this project a Morse code converter is built using Arduino UNO, Arduino IDE, 
 ![morse1](https://github.com/zadkiel05/Morse-Code-Converter/assets/136728698/5a2a920a-4025-4cff-9480-d5f59960f7ca)
 
 PROJECT REQUIREMENTS:-
-ARDUINO IDE (software)
-Arduino Uno
-Push Buttons
-PCB
-Battery
-Jumper wires
-Connecting wires
-Resistors
-I2C module
-16x2 LCD Display
-Buzzers
+ARDUINO IDE (software), Arduino Uno, Push Buttons, PCB, Battery, Jumper wires, Connecting wires, Resistors, I2C module, 16x2 LCD Display, Buzzers
 
